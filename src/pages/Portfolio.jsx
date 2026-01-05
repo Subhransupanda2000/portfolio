@@ -110,10 +110,11 @@ export default function Portfolio() {
             <a
               href="https://www.linkedin.com/in/subhransu-panda-oficial/"
               target="_blank"
+              rel="noopener noreferrer"
             >
               <Linkedin />
             </a>
-            <a href="isubhransu.panda@gmail.com">
+            <a href="isubhransu.panda@gmail.com" rel="noopener noreferrer">
               <Mail />
             </a>
           </div>
