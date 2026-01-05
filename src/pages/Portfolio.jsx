@@ -100,7 +100,11 @@ export default function Portfolio() {
             Open to remote opportunities and freelance projects.
           </p>
           <div className="flex justify-center gap-6">
-            <a href="https://github.com/Subhransupanda2000" target="_blank">
+            <a
+              href="https://github.com/Subhransupanda2000"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               <Github />
             </a>
             <a
